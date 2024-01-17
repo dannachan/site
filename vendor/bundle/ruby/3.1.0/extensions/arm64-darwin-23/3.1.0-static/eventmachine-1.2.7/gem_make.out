@@ -1,0 +1,16 @@
+current directory: /Users/evinround/Desktop/site/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/evinround/.rubies/ruby-3.1.3/bin/ruby -I /Users/evinround/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/evinround/Desktop/site/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240116-79612-5c72d8 sitelibdir\=./.gem.20240116-79612-5c72d8 clean
+
+current directory: /Users/evinround/Desktop/site/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240116-79612-5c72d8 sitelibdir\=./.gem.20240116-79612-5c72d8
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/evinround/Desktop/site/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240116-79612-5c72d8 sitelibdir\=./.gem.20240116-79612-5c72d8 install
+/opt/homebrew/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20240116-79612-5c72d8
